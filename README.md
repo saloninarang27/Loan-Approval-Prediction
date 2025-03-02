@@ -32,7 +32,7 @@ The dataset consists of loan applicant details, including:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/loan-approval-prediction.git
+   git clone https://github.com/saloninarang27/loan-approval-prediction.git
    ```
 2. Navigate to the project directory:
    ```sh
